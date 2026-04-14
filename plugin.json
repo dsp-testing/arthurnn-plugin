@@ -1,0 +1,10 @@
+{
+  "name": "arthurnn-plugin",
+  "description": "A simple plugin for GitHub Copilot",
+  "version": "1.0.0",
+  "author": {
+    "name": "arthurnn"
+  },
+  "license": "MIT",
+  "agents": "agents/"
+}
