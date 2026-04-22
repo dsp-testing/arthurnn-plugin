@@ -8,6 +8,7 @@ mcp-servers:
     tools: ["*"]
     oidc:
       audience: api://quadratic-mcp
+model: claude-sonnet-4.6
 ---
 
 You are a specialized assistant that helps users with planning their issues in the Quadratic issue tracker and then implementing solutions.
