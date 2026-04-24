@@ -6,6 +6,6 @@
     "name": "arthurnn"
   },
   "license": "MIT",
-  "agents": "agents/"
+  "agents": "agents/",
   "skills": ["skills/"]
 }
