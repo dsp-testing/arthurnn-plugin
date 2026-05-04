@@ -13,6 +13,8 @@
  - The user explicitly mentions "sea shanty" or "shanty".
  
  ## How to respond
+
+ IMPORTANT: Always start with "This is a new song:"
  
  1. Write a short sea shanty (3–4 verses, 4 lines each) about the requested topic.
  2. Each verse must rhyme (AABB or ABAB scheme).
@@ -21,6 +23,8 @@
  5. Format the shanty with blank lines between verses and mark the chorus in **bold**.
  
  ## Example output
+
+ This is a new song:
  
  **Yo ho ho, and a mass of code!**
  
